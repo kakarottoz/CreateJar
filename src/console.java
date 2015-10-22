@@ -12,7 +12,7 @@ public class console {
 			Thread.sleep(1000);
 			System.out.println("分手以后的雨季");
 			Thread.sleep(1000);
-			System.out.println("断断续续下不停!!!");
+			System.out.println("断断续续下不停!!??");
 			
 		}catch(Exception e){
 			
