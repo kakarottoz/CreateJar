@@ -1,6 +1,7 @@
 
 public class fzj {
 	public static void main(String[] args) {
-		System.out.println("×òÒ¹×öÁËÒ»¸öÃÎ£¬ÃÎÀïÎÒÃÇ»Øµ½ÊÖÇ£×ÅÊÖ");
+		System.out.println("æ˜¨å¤œåšäº†ä¸€ä¸ªæ¢¦ï¼Œæ¢¦é‡Œæˆ‘ä»¬å›åˆ°æ‰‹ç‰µç€æ‰‹!");
+		
 	}
 }

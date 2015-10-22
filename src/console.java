@@ -2,17 +2,17 @@
 public class console {
 	public static void main(String[] args) {
 		try{
-			System.out.println("ÄãÏÖÔÚºÃÂğ");
+			System.out.println("ä½ ç°åœ¨å¥½å—");
 			Thread.sleep(1000);
-			System.out.println("¹¤×÷Ë³ÀûÂğ");
+			System.out.println("å·¥ä½œé¡ºåˆ©å—");
 			Thread.sleep(1000);
-			System.out.println("ÎÒ´ÓÔ¶·½ËÍÄãµÄ»¨");
+			System.out.println("æˆ‘ä»è¿œæ–¹é€ä½ çš„èŠ±");
 			Thread.sleep(1000);
-			System.out.println("ÄãÊÕµ½ÁËÂğ");
+			System.out.println("ä½ æ”¶åˆ°äº†å—");
 			Thread.sleep(1000);
-			System.out.println("·ÖÊÖÒÔºóµÄÓê¼¾");
+			System.out.println("åˆ†æ‰‹ä»¥åçš„é›¨å­£");
 			Thread.sleep(1000);
-			System.out.println("¶Ï¶ÏĞøĞøÏÂ²»Í£");
+			System.out.println("æ–­æ–­ç»­ç»­ä¸‹ä¸åœ!!??");
 			
 		}catch(Exception e){
 			
